@@ -1,5 +1,4 @@
 Comenzamos con los ejercicios de Git
-# Información de Compañeros
 
 | Nombre | GitHub User 
 | :---  | :--- | 
